@@ -1,3 +1,3 @@
-### I am M-Tech 
+```I am Mi-Tech```
 Everything i do works :)
 
